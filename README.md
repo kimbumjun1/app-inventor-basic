@@ -25,7 +25,7 @@
     <td>2</td>
   </tr>
   <tr>
-    <td margin = "2">
+    <td colspan "2">
       3
       </td>
   </tr>
