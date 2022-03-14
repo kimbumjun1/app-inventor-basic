@@ -24,23 +24,26 @@
     <td colspan = 2>#즐겨찾는 사이트 앱</td>
   </tr>
     <tr>
-    <td colspan = 2>#네이버스토어 연동앱</td>
+    <td colspan = 2>#네이버스토어 연동 앱</td>
   </tr>
     <tr>
-    <td colspan = 2>#나만의 미디어플레이어 만들기</td>
+    <td colspan = 2>#나만의 미디어플레이어 앱</td>
   </tr>
     <tr>
     <td colspan = 2>#너의 목소리를 보여줘</td>
   </tr>
     <tr>
-    <td colspan = 2>#나만의 악기</td>
+    <td colspan = 2>#나만의 악기 앱</td>
   </tr>
    <tr>
-    <td>#말하는 톰</td>
+    <td>#말하는 톰 앱</td>
      <td>https://bumpang.tistory.com/2</td>
   </tr>
   <tr>
-    <td colspan =2>#나만의 그림판</td>
+    <td colspan =2>#나만의 그림판 앱</td>
+  </tr>
+   <tr>
+    <td colspan =2>#만보기 앱</td>
   </tr>
 </table>
 
