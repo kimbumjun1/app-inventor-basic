@@ -45,6 +45,9 @@
    <tr>
     <td colspan =2>#만보기 앱</td>
   </tr>
+  <tr>
+    <td colspan =2>#위치정보 앱</td>
+  </tr>
 </table>
 
 <br></br>#즐겨찾는 사이트 앱
