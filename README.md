@@ -21,13 +21,13 @@
 아이디어가 중요하다.
 <table>
   <tr>
-    <td>1</td>
+    <td >1</td>
     <td>2</td>
   </tr>
   <tr>
-    <td>
+    <td margin = "2">
       3
-    </td>
+      </td>
   </tr>
 </table>
 
