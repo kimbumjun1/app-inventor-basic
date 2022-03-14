@@ -21,9 +21,13 @@
 아이디어가 중요하다.
 <table>
   <tr>
-    <td>1<td>
-    <td>2<td>
-
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>
+      3
+    </td>
   </tr>
 </table>
 
