@@ -36,8 +36,7 @@
     <td colspan = 2>#나만의 악기 앱</td>
   </tr>
    <tr>
-    <td>#말하는 톰 앱</td>
-     <td>https://bumpang.tistory.com/2</td>
+    <td colspan =2>#말하는 톰 앱</td>
   </tr>
   <tr>
     <td colspan =2>#나만의 그림판 앱</td>
