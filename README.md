@@ -47,6 +47,13 @@
   <tr>
     <td colspan =2>#위치정보 앱</td>
   </tr>
+    <tr>
+    <td colspan =2>#파일다루기</td>
+  </tr>
+    <tr>
+    <td colspan =2>#타이니DB</td>
+  </tr>
+  
 </table>
 
 <br></br>#즐겨찾는 사이트 앱
@@ -55,5 +62,7 @@
 <br></br>#너의 목소리를 보여줘
 <br></br>#나만의 악기
 <br></br>#말하는 톰
+<br></br>#파일다루기
+<br></br>#타이니DB연동하기
 <br></br>https://bumpang.tistory.com/2
 
