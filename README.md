@@ -53,9 +53,13 @@
     <tr>
     <td colspan =2>#타이니DB</td>
   </tr>
+      <tr>
+    <td colspan =2>#번역기</td>
+  </tr>
   
 </table>
 
+<br></br>https://bumpang.tistory.com/2
 <br></br>#즐겨찾는 사이트 앱
 <br></br>#네이버스토어 연동앱
 <br></br>#나만의 미디어플레이어 만들기
@@ -64,5 +68,9 @@
 <br></br>#말하는 톰
 <br></br>#파일다루기
 <br></br>#타이니DB연동하기
-<br></br>https://bumpang.tistory.com/2
+<br></br>#번역기
+
+
+
+
 
