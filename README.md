@@ -21,7 +21,8 @@
 아이디어가 중요하다.
 <table>
   <tr>
-    <td colspan = 2>#즐겨찾는 사이트 앱</td>
+    <td>#즐겨찾는 사이트 앱</td>
+    <td>https://bumpang.tistory.com/</td>
   </tr>
     <tr>
     <td colspan = 2>#네이버스토어 연동 앱</td>
