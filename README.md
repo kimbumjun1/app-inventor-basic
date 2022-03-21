@@ -57,6 +57,9 @@
       <tr>
     <td colspan =2>#번역기</td>
   </tr>
+    <tr>
+    <td colspan =2>#오늘뭐먹지?(메뉴추천앱)</td>
+  </tr>
   
 </table>
 
